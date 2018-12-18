@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HessianFramework
 {
-    public class AssetGroup
+    public class AssetGroup : PartOfHessianStructure
     {
     }
 }
